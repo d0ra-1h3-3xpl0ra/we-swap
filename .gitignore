@@ -11,7 +11,7 @@ priv/styles_DIY.css
 ### NextJS ###
 # Next build dir
 .next/
-
+ 
 ### Node ###
 # Logs
 logs
