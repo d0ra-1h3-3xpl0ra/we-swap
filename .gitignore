@@ -2,6 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node,osx,visualstudiocode,nextjs,dotenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,osx,visualstudiocode,nextjs,dotenv
 
+### Exposed API
+
+priv/styles_DIY.css
 ### dotenv ###
 .env
 
